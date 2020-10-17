@@ -1,0 +1,41 @@
+body{
+	font-family:Balsamiq Sans, cursive;
+	margin:0;
+	font-size: 16px;
+} 
+
+header img {
+	text-align: center;
+	width: 300px;
+	border: solid red;
+	border-radius: 250px;
+
+}
+
+header {
+	text-align: center;
+	background-color: #F8A344;
+	padding-top: 30px;
+	padding-bottom: 15px;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+	font-size: 35px;
+}
+
+main img {
+	max-width: 40%;
+	border-radius: 430px;
+	text-align: center;
+}
+
+.categ {
+	background-color: tomato;
+  color: white;
+  border: 4px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
