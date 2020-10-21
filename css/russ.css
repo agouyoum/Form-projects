@@ -26,16 +26,34 @@ h1 {
 }
 
 main img {
-	max-width: 40%;
-	border-radius: 430px;
-	text-align: center;
+	max-width: 30%;
+	border-radius: 930px;
+	border: solid black 3px;
+	text-align: right;
 }
 
 .categ {
 	background-color: tomato;
   color: white;
   border: 4px solid black;
-  margin: 20px;
-  padding: 20px;
+  margin: 30px;
+  padding: 30px;
+  line-height: 30px;
+  font-size: 160%;
 }
 
+#changes {
+	color: green;
+	padding-top: 40px;
+	font-size: 55px;
+}
+
+.caten{
+	background-color: green;
+	color: white;
+	border: 3px solid white;
+	margin: 30px;
+	padding: 40px;
+	font-size: 140%;
+	line-height: 20px;
+}
