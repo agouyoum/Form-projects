@@ -26,14 +26,20 @@ h1 {
 }
 
 main img {
-	max-width: 30%;
+	max-width: 45%;
 	border-radius: 930px;
 	border: solid black 3px;
+}
+
+aside{
+	float: right;
 	text-align: right;
+	padding-right: 20px;
 }
 
 .categ {
 	background-color: tomato;
+	float: left;
   color: white;
   border: 4px solid black;
   margin: 30px;
@@ -51,9 +57,27 @@ main img {
 .caten{
 	background-color: green;
 	color: white;
-	border: 3px solid white;
+	border: 4px solid purple;
 	margin: 30px;
 	padding: 40px;
 	font-size: 140%;
 	line-height: 20px;
 }
+
+footer {
+	background-color: yellow;
+	text-align: center;
+	padding-bottom: 40px;
+	padding-top: 10px;
+}
+
+a footer {
+	color: #e70c19
+}
+
+a:hover{
+	color: white;
+	background-color: purple;
+}
+
+
